@@ -18,9 +18,11 @@ fs.readFile('db/db.json', 'utf8', (err, data) => {
   });
 
   const updateDB = () => {
-    fs.writeFile(noteData, JSON.stringify(noteData, '\t'), (err) => {
+    fs.writeFile(noteData, JSON.stringify(noteData), (err) => {
       if (err) throw err;
       return;
     });
   };
 });
+
+module.exports = router;
