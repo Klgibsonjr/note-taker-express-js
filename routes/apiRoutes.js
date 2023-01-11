@@ -24,7 +24,6 @@ router.post('/api/notes', (req, res) => {
     console.log('Your notes has been created!');
   });
   res.json(createNote);
-  console.log(createNote);
 });
 
 router.delete('/api/notes/:id', (req, res) => {
