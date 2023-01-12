@@ -15,7 +15,7 @@
 - [License](#license)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Demonstration](#demostration)
+- [Demonstration](#demonstration)
 - [Contact](#contact)
 
 ---
