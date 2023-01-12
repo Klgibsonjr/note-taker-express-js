@@ -54,7 +54,9 @@ Below is a link to a walkthrough video showing the application functioning as in
 
 [Note Taker Express Walkthrough Video](https://drive.google.com/file/d/1x-_er6NycxwboYvdlgTNhEhsnUHiEdpZ/view)
 
-Below is a screenshot of the application
+### Deployment Link via Heroku
+
+[Heroku Deployment Link](https://note-taker-klgibsonjr.herokuapp.com/)
 
 ---
 
